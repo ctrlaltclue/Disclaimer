@@ -1,7 +1,7 @@
 # Disclaimer
 A disclaimer for whats going on.
 
-***READ THE HTML FILE, HTML FILES ARE NT VIRUSES THEY'RE JUST BROWSER LINKS***
+**Trust the code within, HTML is but a window, not a weapon. No viruses dwell in these pages, only paths to hidden truths.**
 
 ## License
 
